@@ -1,6 +1,6 @@
 variable "instance_name" {
     type = string
-    default = "web"
+    default = "mongodb"
 }
 
 variable "ami_id" {
